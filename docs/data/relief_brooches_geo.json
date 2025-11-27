@@ -1,0 +1,3335 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 1,
+                "inventory_no": "C 6",
+                "parish": "Østerlarsker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.97724492,
+                    55.16416079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 2,
+                "inventory_no": "C 32",
+                "parish": "Østerlarsker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.97724492,
+                    55.16416079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 3,
+                "inventory_no": "C 33",
+                "parish": "Østerlarsker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.97724492,
+                    55.16416079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 4,
+                "inventory_no": "C 34",
+                "parish": "Østerlarsker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.97724492,
+                    55.16416079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 5,
+                "inventory_no": "C 40",
+                "parish": "Østerlarsker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.97724492,
+                    55.16416079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 6,
+                "inventory_no": "C 120",
+                "parish": "Rutsker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.71935752,
+                    55.18975155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 7,
+                "inventory_no": "C 288",
+                "parish": "Gundslev sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.97579997,
+                    54.93414217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 8,
+                "inventory_no": "C 719",
+                "parish": "Næsbjerg sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.604576591,
+                    55.62260981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 9,
+                "inventory_no": "C 1499",
+                "parish": "Bodilsker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.02207607,
+                    55.07725483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 10,
+                "inventory_no": "C1577",
+                "parish": "Tise sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.843737249,
+                    57.29865159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 11,
+                "inventory_no": "C 2943",
+                "parish": "Gudhjem sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.96225115,
+                    55.20800225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 12,
+                "inventory_no": "C 2944",
+                "parish": "Gudhjem sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.96225115,
+                    55.20800225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 13,
+                "inventory_no": "C3500",
+                "parish": "Ganløse sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.25874448,
+                    55.81694512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 14,
+                "inventory_no": "C 5221",
+                "parish": "Estvad sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.95912142,
+                    56.50982337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 15,
+                "inventory_no": "C7154",
+                "parish": "Ullits sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.319553324,
+                    56.7389622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 16,
+                "inventory_no": "C7648",
+                "parish": "Nørre Tranders sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.981615394,
+                    57.0331854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 17,
+                "inventory_no": "C 26665",
+                "parish": "Høje Tåstrup Sogn sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.20028147,
+                    55.64882481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 18,
+                "inventory_no": "C32032",
+                "parish": "Vestermarie sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.84932501,
+                    55.14096933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 19,
+                "inventory_no": "C 34747",
+                "parish": "Saltum sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.713565759,
+                    57.26096348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 20,
+                "inventory_no": "C 35104",
+                "parish": "Nyker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8014849,
+                    55.16485255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 21,
+                "inventory_no": "C 35119",
+                "parish": "Nyker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8014849,
+                    55.16485255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 22,
+                "inventory_no": "C 35120",
+                "parish": "Nyker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8014849,
+                    55.16485255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 23,
+                "inventory_no": "C 35166",
+                "parish": "Østerlarsker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.97724492,
+                    55.16416079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 24,
+                "inventory_no": "C 35266",
+                "parish": "Ibsker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07952444,
+                    55.08405089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 25,
+                "inventory_no": "C 35414",
+                "parish": "Sigersted sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.71072806,
+                    55.41049524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 26,
+                "inventory_no": "C 35576",
+                "parish": "Gudme sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.70832297,
+                    55.15816746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 27,
+                "inventory_no": "C 35675",
+                "parish": "Pedersker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.99842008,
+                    54.99895067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 28,
+                "inventory_no": "C 35984",
+                "parish": "Ibsker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07952444,
+                    55.08405089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 29,
+                "inventory_no": "C 36019",
+                "parish": "Vestermarie sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.84932501,
+                    55.14096933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 30,
+                "inventory_no": "C 36020",
+                "parish": "Vestermarie sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.84932501,
+                    55.14096933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 31,
+                "inventory_no": "C 36021",
+                "parish": "Vestermarie sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.84932501,
+                    55.14096933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 32,
+                "inventory_no": "C 36048",
+                "parish": "Ibsker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07952444,
+                    55.08405089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 33,
+                "inventory_no": "C 36315",
+                "parish": "Vestermarie sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.84932501,
+                    55.14096933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 34,
+                "inventory_no": "C 36571",
+                "parish": "Nørholm sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.714452413,
+                    57.02885238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 35,
+                "inventory_no": "C 36740",
+                "parish": "Vestermarie sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.84932501,
+                    55.14096933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 36,
+                "inventory_no": "C 36932",
+                "parish": "Ibsker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07952444,
+                    55.08405089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 37,
+                "inventory_no": "C 36983",
+                "parish": "Østermarie sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.96063515,
+                    55.13726276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 38,
+                "inventory_no": "C 37065",
+                "parish": "Fraugde sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.45865153,
+                    55.35269379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 39,
+                "inventory_no": "C 37668",
+                "parish": "Bringstrup sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.74374243,
+                    55.45478467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 40,
+                "inventory_no": "C 37915",
+                "parish": "Vestermarie sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.84932501,
+                    55.14096933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 44,
+                "inventory_no": "C 38606",
+                "parish": "Ganløse sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.25874448,
+                    55.81694512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 45,
+                "inventory_no": "C 38925",
+                "parish": "Vestermarie sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.84932501,
+                    55.14096933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 46,
+                "inventory_no": "C 39032",
+                "parish": "Ulfborg sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.295712599,
+                    56.29659614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 47,
+                "inventory_no": "C 39234",
+                "parish": "Højelse sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.15182854,
+                    55.48605527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 48,
+                "inventory_no": "C 39253",
+                "parish": "Højelse sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.97269526,
+                    55.4775207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 49,
+                "inventory_no": "C 39254",
+                "parish": "Højelse sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.16917649,
+                    55.46544216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 50,
+                "inventory_no": "C 40275",
+                "parish": "Sigersted sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.71072806,
+                    55.41049524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 51,
+                "inventory_no": "C 41102",
+                "parish": "Rise sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.40189809,
+                    54.8807164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 52,
+                "inventory_no": "C 41141",
+                "parish": "Nørre Herlev sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2230079,
+                    55.90278773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 53,
+                "inventory_no": "C 41142",
+                "parish": "Nørre Herlev sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.07812025,
+                    55.83311717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 54,
+                "inventory_no": "C 41229",
+                "parish": "Mårum sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.30535656,
+                    56.03456237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 55,
+                "inventory_no": "C 42412",
+                "parish": "Hviding sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.702174829,
+                    55.25297843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 56,
+                "inventory_no": "C 42491",
+                "parish": "Mårum sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.30535656,
+                    56.03456237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 57,
+                "inventory_no": "C 42492",
+                "parish": "Mårum sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.35989301,
+                    55.97087525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 58,
+                "inventory_no": "C 42494",
+                "parish": "Mårum sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.14895591,
+                    56.03602565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 59,
+                "inventory_no": "C 42577",
+                "parish": "Herfølge sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.12390684,
+                    55.44746043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 60,
+                "inventory_no": "C 42644",
+                "parish": "Tunø sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.45126773,
+                    55.9491308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 61,
+                "inventory_no": "C 43174",
+                "parish": "Davinde sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.53334889,
+                    55.33298683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 62,
+                "inventory_no": "C 43286",
+                "parish": "Kousted sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.890786407,
+                    56.53209481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 63,
+                "inventory_no": "C 43496",
+                "parish": "Østerlarsker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.97724492,
+                    55.16416079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 64,
+                "inventory_no": "C 43497",
+                "parish": "Østerlarsker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.97724492,
+                    55.16416079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 65,
+                "inventory_no": "C 44100",
+                "parish": "Gudme sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.70832297,
+                    55.15816746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 66,
+                "inventory_no": "C 44374",
+                "parish": "Kvanløse sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.64776438,
+                    55.673379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 67,
+                "inventory_no": "C 44393",
+                "parish": "Nørre Herlev sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2230079,
+                    55.90278773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 68,
+                "inventory_no": "C 44450",
+                "parish": "Grønholt sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.38055933,
+                    55.97565678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 69,
+                "inventory_no": "C 44451",
+                "parish": "Grønholt sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.38055933,
+                    55.97565678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 70,
+                "inventory_no": "C 44730",
+                "parish": "Boeslunde sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.27895753,
+                    55.26335049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 71,
+                "inventory_no": "C 44856",
+                "parish": "Tågerup sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.42423565,
+                    54.67145799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 72,
+                "inventory_no": "C 45232",
+                "parish": "Holeby sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.48309301,
+                    54.71858718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 73,
+                "inventory_no": "C 45384",
+                "parish": "Aggersborg sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.254822607,
+                    56.99796558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 74,
+                "inventory_no": "C45435",
+                "parish": "Mårum sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.30535656,
+                    56.03456237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 75,
+                "inventory_no": "C 45567",
+                "parish": "Gerning sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.721958931,
+                    56.36583628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 76,
+                "inventory_no": "C 46027",
+                "parish": "Skjern sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.733270617,
+                    56.41416563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 77,
+                "inventory_no": "C 46098",
+                "parish": "Allindemagle sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.72164835,
+                    55.49635853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 78,
+                "inventory_no": "C 46642",
+                "parish": "Vestermarie sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.84932501,
+                    55.14096933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 79,
+                "inventory_no": "C 46770",
+                "parish": "Vestermarie sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.84932501,
+                    55.14096933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 80,
+                "inventory_no": "C 46825",
+                "parish": "Åker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.84805639,
+                    55.04363645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 81,
+                "inventory_no": "C 47886",
+                "parish": "Sebber sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.498345777,
+                    56.96123348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 82,
+                "inventory_no": "C 47944",
+                "parish": "Munkebo sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.54257302,
+                    55.46156367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 83,
+                "inventory_no": "C 48898",
+                "parish": "Fraugde sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.45865153,
+                    55.35269379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 84,
+                "inventory_no": "C 49030",
+                "parish": "Øksendrup sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.75738149,
+                    55.20469006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 85,
+                "inventory_no": "C 49141",
+                "parish": "Østermarie sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.96063515,
+                    55.13726276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 86,
+                "inventory_no": "C 49984",
+                "parish": "Ibsker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07952444,
+                    55.08405089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 87,
+                "inventory_no": "C 50469",
+                "parish": "Ryde sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.35498389,
+                    54.78053553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 88,
+                "inventory_no": "C 50487",
+                "parish": "Hviding sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.702174829,
+                    55.25297843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 90,
+                "inventory_no": "C 50595",
+                "parish": "Østermarie sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.96063515,
+                    55.13726276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 91,
+                "inventory_no": "C 50596",
+                "parish": "Østermarie sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.96063515,
+                    55.13726276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 92,
+                "inventory_no": "C 50787",
+                "parish": "Østerlarsker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.97724492,
+                    55.16416079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 93,
+                "inventory_no": "C 50788",
+                "parish": "Østerlarsker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.97724492,
+                    55.16416079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 94,
+                "inventory_no": "C 51100",
+                "parish": "Ibsker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07952444,
+                    55.08405089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 95,
+                "inventory_no": "C 51101",
+                "parish": "Ibsker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.12224793,
+                    55.13013884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 96,
+                "inventory_no": "C 51141",
+                "parish": "Ibsker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.97724492,
+                    55.16416079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 97,
+                "inventory_no": "C 51142",
+                "parish": "Ibsker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.96063515,
+                    55.13726276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 99,
+                "inventory_no": "C 51587",
+                "parish": "Levring sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.445043706,
+                    56.30403674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 100,
+                "inventory_no": "C 52414",
+                "parish": "Frejlev sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.841290716,
+                    56.99341831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 101,
+                "inventory_no": "C 52647",
+                "parish": "Linå sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.750661222,
+                    56.16345917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 102,
+                "inventory_no": "C 53101",
+                "parish": "Åsum sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.478551,
+                    55.41219023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 103,
+                "inventory_no": "C 53198",
+                "parish": "Agedrup sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.50660456,
+                    55.42501336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 104,
+                "inventory_no": "C 53327",
+                "parish": "Snesere sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.90597023,
+                    55.18131765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 105,
+                "inventory_no": "C 53540",
+                "parish": "Ibsker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07952444,
+                    55.08405089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 106,
+                "inventory_no": "C 53773",
+                "parish": "Vestermarie sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.84932501,
+                    55.14096933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 107,
+                "inventory_no": "C 53879",
+                "parish": "Østerlarsker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.97724492,
+                    55.16416079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 108,
+                "inventory_no": "C 54162",
+                "parish": "Østermarie sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.96063515,
+                    55.13726276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 109,
+                "inventory_no": "C 54938",
+                "parish": "Årby sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.12086644,
+                    55.65261328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 110,
+                "inventory_no": "C 55079",
+                "parish": "Krogsbølle sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.34811973,
+                    55.60410439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 111,
+                "inventory_no": "C 55511",
+                "parish": "Harlev sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.987036121,
+                    56.11210892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 112,
+                "inventory_no": "C 55768",
+                "parish": "Boeslunde sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.27895753,
+                    55.26335049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 113,
+                "inventory_no": "C 56205",
+                "parish": "Havnelev sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.34378201,
+                    55.25218331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 114,
+                "inventory_no": "C 56879",
+                "parish": "Linå sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.750661222,
+                    56.16345917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 115,
+                "inventory_no": "C 57573",
+                "parish": "Tistrup sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.595317137,
+                    55.76748709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 116,
+                "inventory_no": "C 57719",
+                "parish": "Østerlarsker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.97724492,
+                    55.16416079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 117,
+                "inventory_no": "C 58006",
+                "parish": "Borbjerg sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.827649206,
+                    56.39663352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 118,
+                "inventory_no": "C 58388",
+                "parish": "Gerning sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.721958931,
+                    56.36583628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 119,
+                "inventory_no": "C 59037",
+                "parish": "Store Magleby sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.66301502,
+                    55.58965148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 120,
+                "inventory_no": "C 59059",
+                "parish": "Lee sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.646394883,
+                    56.42041667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 121,
+                "inventory_no": "C 59189",
+                "parish": "Sønder Hygum sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.91028082,
+                    55.37564339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 122,
+                "inventory_no": "C 59190",
+                "parish": "Sønder Hygum sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.91028082,
+                    55.37564339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 123,
+                "inventory_no": "C 59191",
+                "parish": "Sønder Hygum sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.91028082,
+                    55.37564339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 124,
+                "inventory_no": "C 59192",
+                "parish": "Sønder Hygum sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.91028082,
+                    55.37564339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 125,
+                "inventory_no": "C 59201",
+                "parish": "Sønder Hygum sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.91028082,
+                    55.37564339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 126,
+                "inventory_no": "C 59202",
+                "parish": "Sønder Hygum sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.91028082,
+                    55.37564339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 127,
+                "inventory_no": "C 59210",
+                "parish": "Sønder Hygum sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.91028082,
+                    55.37564339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 128,
+                "inventory_no": "C 59373",
+                "parish": "Ibsker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07952444,
+                    55.08405089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 129,
+                "inventory_no": "C 59593",
+                "parish": "Seem sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.857962839,
+                    55.29810851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 130,
+                "inventory_no": "C 60259",
+                "parish": "Herlufsholm sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.69147368,
+                    55.27514199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 131,
+                "inventory_no": "C 60272",
+                "parish": "Karlstrup sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.20462162,
+                    55.55770274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 132,
+                "inventory_no": "C 60471",
+                "parish": "Hillerslev sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.783686508,
+                    56.99472749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 133,
+                "inventory_no": "C 60586",
+                "parish": "Skjern sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.733270617,
+                    56.41416563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 135,
+                "inventory_no": "C 60950",
+                "parish": "Gunderup sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.04257966,
+                    56.92269586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 136,
+                "inventory_no": "C 60972",
+                "parish": "Gunderup sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.04257966,
+                    56.92269586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 137,
+                "inventory_no": "C 60997",
+                "parish": "Gunderup sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.04257966,
+                    56.92269586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 138,
+                "inventory_no": "C 61063",
+                "parish": "Olsker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7837976,
+                    55.26698905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 139,
+                "inventory_no": "C 61101",
+                "parish": "Annisse sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.15132683,
+                    56.00647288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 141,
+                "inventory_no": "C 61637",
+                "parish": "Østermarie sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.96063515,
+                    55.13726276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 142,
+                "inventory_no": "C 62072",
+                "parish": "Vejerslev sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.719904484,
+                    56.30701198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 143,
+                "inventory_no": "C 62514",
+                "parish": "Store Magleby sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.66301502,
+                    55.58965148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 144,
+                "inventory_no": "C 62636",
+                "parish": "Ulsted sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3055738,
+                    57.05210795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 145,
+                "inventory_no": "C 62688",
+                "parish": "Dommerby sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.037057152,
+                    56.52980642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 146,
+                "inventory_no": "C 63337",
+                "parish": "Åsum sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.478551,
+                    55.41219023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 147,
+                "inventory_no": "C 63343",
+                "parish": "Åsum sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.478551,
+                    55.41219023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 148,
+                "inventory_no": "C 63373",
+                "parish": "Åsum sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.478551,
+                    55.41219023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 149,
+                "inventory_no": "C 63422",
+                "parish": "Åsum sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.478551,
+                    55.41219023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 150,
+                "inventory_no": "C 63426",
+                "parish": "Åsum sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.478551,
+                    55.41219023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 151,
+                "inventory_no": "C 63649",
+                "parish": "Gudme sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.70832297,
+                    55.15816746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 152,
+                "inventory_no": "C 63847",
+                "parish": "Herstedvester sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.33693312,
+                    55.65245339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 153,
+                "inventory_no": "C 63884",
+                "parish": "Gudme sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.70832297,
+                    55.15816746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 154,
+                "inventory_no": "C 63919",
+                "parish": "Gudme sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.70832297,
+                    55.15816746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 155,
+                "inventory_no": "C 64047",
+                "parish": "Lønborg sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.485611194,
+                    55.87885088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 156,
+                "inventory_no": "C 64523",
+                "parish": "Munke Bjergby sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.57692253,
+                    55.49298777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 157,
+                "inventory_no": "C 64558",
+                "parish": "Slangerup sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.11424927,
+                    55.85325889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 158,
+                "inventory_no": "C 64818",
+                "parish": "Ravnstrup sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.272238756,
+                    56.47520396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 160,
+                "inventory_no": "C 64866 a-b",
+                "parish": "Karlstrup sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.20462162,
+                    55.55770274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 161,
+                "inventory_no": "C 65465",
+                "parish": "Gudme sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.70832297,
+                    55.15816746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 162,
+                "inventory_no": "C 65472",
+                "parish": "Gudme sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.70832297,
+                    55.15816746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 163,
+                "inventory_no": "C 65473",
+                "parish": "Gudme sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.70832297,
+                    55.15816746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 164,
+                "inventory_no": "C 65589",
+                "parish": "Hillerslev sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.783686508,
+                    56.99472749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 165,
+                "inventory_no": "C 65802",
+                "parish": "Vetterslev sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.76232373,
+                    55.39224798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 166,
+                "inventory_no": "C 66057",
+                "parish": "Rutsker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.71935752,
+                    55.18975155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 167,
+                "inventory_no": "C 66242",
+                "parish": "Rise sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.40189809,
+                    54.8807164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 168,
+                "inventory_no": "C 66427",
+                "parish": "Rise sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.40189809,
+                    54.8807164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 169,
+                "inventory_no": "C 66969",
+                "parish": "Rise sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.40189809,
+                    54.8807164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 170,
+                "inventory_no": "C 67457",
+                "parish": "Vindblæs sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.14703653,
+                    56.67930867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 171,
+                "inventory_no": "C 67477",
+                "parish": "Komdrup sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.10211374,
+                    56.9091595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 172,
+                "inventory_no": "C 67602",
+                "parish": "Kettrup sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.258152277,
+                    57.07003238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 173,
+                "inventory_no": "C 67735",
+                "parish": "Sevel sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.993776321,
+                    56.42988859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 174,
+                "inventory_no": "C 68192",
+                "parish": "Engestofte sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.58527431,
+                    54.74135103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 175,
+                "inventory_no": "C 68205",
+                "parish": "Sevel sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.993776321,
+                    56.42988859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 177,
+                "inventory_no": "C 68314",
+                "parish": "Sønderup sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.40800949,
+                    55.47837436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 178,
+                "inventory_no": "C 68469",
+                "parish": "Frøslev sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.36058481,
+                    55.28897116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 179,
+                "inventory_no": "C 68570",
+                "parish": "Gerning sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.721958931,
+                    56.36583628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 180,
+                "inventory_no": "C 68876",
+                "parish": "Østrup sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.44133095,
+                    55.48454656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 181,
+                "inventory_no": "C 68914",
+                "parish": "Ranum sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.198029188,
+                    56.92249916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 182,
+                "inventory_no": "C 69226 a-u",
+                "parish": "Engestofte sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.58527431,
+                    54.74135103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 183,
+                "inventory_no": "C 69551",
+                "parish": "Kirke Skensved sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.13128001,
+                    55.51690256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 184,
+                "inventory_no": "C 69742",
+                "parish": "Lillevorde sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.06413655,
+                    56.98860148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 185,
+                "inventory_no": "C 69752",
+                "parish": "Vester Torup sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.106737885,
+                    57.07053093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 186,
+                "inventory_no": "C 69860",
+                "parish": "Gørding sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.781180051,
+                    55.50150503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 187,
+                "inventory_no": "C 70271",
+                "parish": "Nordrupvester sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.46533845,
+                    55.49098246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 188,
+                "inventory_no": "C 70333",
+                "parish": "Lønborg sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.485611194,
+                    55.87885088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 189,
+                "inventory_no": "C 70731",
+                "parish": "Tranderup sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.34376198,
+                    54.89356974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 190,
+                "inventory_no": "C 70732",
+                "parish": "Tranderup sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.34376198,
+                    54.89356974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 191,
+                "inventory_no": "C 70739",
+                "parish": "Tranderup sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.34376198,
+                    54.89356974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 192,
+                "inventory_no": "C 70746",
+                "parish": "Tranderup sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.34376198,
+                    54.89356974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 193,
+                "inventory_no": "C 70948",
+                "parish": "Hillerslev sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.335926,
+                    55.23512145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 200,
+                "inventory_no": 2700,
+                "parish": "Oure sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.78038299,
+                    55.13762272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 201,
+                "inventory_no": 9614,
+                "parish": "Hornbæk sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.984219955,
+                    56.47056053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 202,
+                "inventory_no": 10739,
+                "parish": "Smørum sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.29010025,
+                    55.7473005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 203,
+                "inventory_no": 10884,
+                "parish": "Radsted sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.65155901,
+                    54.77927282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 204,
+                "inventory_no": "11495a",
+                "parish": "Bjørnsholm sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.329966031,
+                    56.88444491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 205,
+                "inventory_no": 12524,
+                "parish": "Bjæverskov sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.04988072,
+                    55.463019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 206,
+                "inventory_no": 21405,
+                "parish": "Overlade sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.329966031,
+                    56.88444491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 207,
+                "inventory_no": 22147,
+                "parish": "Gundslev sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.97579997,
+                    54.93414217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 208,
+                "inventory_no": 22375,
+                "parish": "Oure sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.78038299,
+                    55.13762272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 209,
+                "inventory_no": "Dnf. 1/51",
+                "parish": "Ibsker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07952444,
+                    55.08405089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 210,
+                "inventory_no": "Dnf. 1/92",
+                "parish": "Østerlarsker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.97724492,
+                    55.16416079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 211,
+                "inventory_no": "Dnf. 4/86",
+                "parish": "Ibsker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07952444,
+                    55.08405089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 212,
+                "inventory_no": "Dnf. 8/41",
+                "parish": "Tranum sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.452881874,
+                    57.13402604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 214,
+                "inventory_no": "Dnf. 12/19",
+                "parish": "Bording sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.223494809,
+                    56.20177951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 215,
+                "inventory_no": "Dnf. 13/97",
+                "parish": "Hesselager sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.78733227,
+                    55.21831091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 216,
+                "inventory_no": "Dnf. 25/88",
+                "parish": "Ibsker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07952444,
+                    55.08405089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 217,
+                "inventory_no": "Dnf. 28/91",
+                "parish": "Åker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.84805639,
+                    55.04363645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 218,
+                "inventory_no": "Dnf. 37/96",
+                "parish": "Gudme sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.70832297,
+                    55.15816746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 220,
+                "inventory_no": "Dnf. 41/93",
+                "parish": "Kirke Skensved sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.13128001,
+                    55.51690256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 221,
+                "inventory_no": "Dnf. 41/96",
+                "parish": "Gudme sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.70832297,
+                    55.15816746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 222,
+                "inventory_no": "Dnf. 42/00",
+                "parish": "Ejby sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.03697343,
+                    55.50914635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 223,
+                "inventory_no": "Dnf. 47/99",
+                "parish": "Gudme sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.70832297,
+                    55.15816746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 224,
+                "inventory_no": "Dnf. 51/99",
+                "parish": "Gudme sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.70832297,
+                    55.15816746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 225,
+                "inventory_no": "Dnf. 56/97",
+                "parish": "Østerlarsker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.97724492,
+                    55.16416079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 226,
+                "inventory_no": "Dnf. 61/83",
+                "parish": "Gudme sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.70832297,
+                    55.15816746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 227,
+                "inventory_no": "Dnf. 62/00",
+                "parish": "Ibsker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07952444,
+                    55.08405089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 228,
+                "inventory_no": "Dnf. 65/93",
+                "parish": "Åker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.84805639,
+                    55.04363645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 229,
+                "inventory_no": "Dnf. 66/93",
+                "parish": "Åker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.84805639,
+                    55.04363645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 230,
+                "inventory_no": "Dnf. 70/99",
+                "parish": "Gudme sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.70832297,
+                    55.15816746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 231,
+                "inventory_no": "Dnf. 79/98",
+                "parish": "Ejby sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.03697343,
+                    55.50914635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 232,
+                "inventory_no": "Dnf. 82/96",
+                "parish": "Klemensker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.71813581,
+                    55.17325787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 234,
+                "inventory_no": "Dnf. 119/97",
+                "parish": "Østerlarsker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.97724492,
+                    55.16416079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 235,
+                "inventory_no": "Dnf. 128/90",
+                "parish": "Ibsker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07952444,
+                    55.08405089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 236,
+                "inventory_no": "Dnf. 148/90",
+                "parish": "Ibsker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07952444,
+                    55.08405089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 237,
+                "inventory_no": "Dnf. 156/90",
+                "parish": "Vestermarie sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.84932501,
+                    55.14096933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 238,
+                "inventory_no": "Dnf. 293/95",
+                "parish": "Ibsker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07952444,
+                    55.08405089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 240,
+                "inventory_no": "Dnf. 427/94",
+                "parish": "Ibsker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07952444,
+                    55.08405089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "no": 241,
+                "inventory_no": "Dnf. 428/94",
+                "parish": "Ibsker sogn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07952444,
+                    55.08405089
+                ]
+            }
+        }
+    ]
+}
