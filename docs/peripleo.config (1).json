@@ -1,0 +1,15 @@
+{
+  "initial_bounds": [
+    8.0,
+    54.5,
+    12.5,
+    57.8
+  ],
+  "map_style": "./map-style-OSM.json",
+  "data": [
+    {
+      "format": "GEOJSON",
+      "src": "./data/relief_brooches.geojson"
+    }
+  ]
+}
